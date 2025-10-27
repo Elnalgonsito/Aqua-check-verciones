@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aqua-check</string>
+
+    <string name="state_initial">Iniciando. Presione Conectar.</string>
+    <string name="state_permission_ok">Permisos OK. Intentando conexión..</string>
+    <string name="state_denied">Permisos denegados.</string>
+    <string name="error_no_adapter">Error: Adaptador no disponible.</string>
+    <string name="state_bt_off">Bluetooth apagado. Vuelva a presionar Conectar.</string>
+    <string name="state_connecting">Intentando conexión por MAC..</string>
+    <string name="toast_perm_denied">Permisos de Bluetooth/Ubicación denegados.</string>
+    <string name="toast_no_soporta_bt">El dispositivo no soporta Bluetooth.</string>
+
+    <string name="format_humedad_adc">%s ADC</string>
+    <string name="format_temperatura">%s °C</string>
+    <string name="format_hum_aire">%s %%</string>
+    <string name="format_ppm">%s PPM</string>
+</resources>
